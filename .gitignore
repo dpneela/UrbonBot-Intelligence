@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.env
+*.pem
+*.key
+.ipynb_checkpoints/
+*.pt
+*.h5

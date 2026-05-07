@@ -12,7 +12,7 @@ from email.message import EmailMessage
 load_dotenv()
 
 # ================= CONFIG =================
-MODEL_PATH = "C:/db/traffic_lstm_model.h5"
+MODEL_PATH = "C:/db/models/traffic_lstm_model.h5"
 
 # ================= DB CONNECTION =================
 def get_connection():

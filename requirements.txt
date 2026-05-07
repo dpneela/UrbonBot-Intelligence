@@ -1,0 +1,10 @@
+streamlit
+pymysql
+python-dotenv
+opencv-python
+numpy
+tensorflow
+ultralytics
+scikit-learn
+nltk
+groq

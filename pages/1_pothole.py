@@ -11,7 +11,7 @@ load_dotenv()
 # ===============================
 # CONFIG
 # ===============================
-MODEL_PATH = "C:/db/best.pt"
+MODEL_PATH = "C:/db/models/best.pt"
 CONF_THRESHOLD = 0.25
 
 # ===============================

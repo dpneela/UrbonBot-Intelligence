@@ -15,7 +15,7 @@ st.caption("ARIMA-based air quality forecasting for smart environmental manageme
 
 # ================= MODEL PATHS =================
 AQI_MODELS = {
-    "Chennai": "C:/db/aqi_arima_chennai.pkl"
+    "Chennai": "C:/db/models/aqi_arima_chennai.pkl"
 }
 
 AQI_STATIONS = {

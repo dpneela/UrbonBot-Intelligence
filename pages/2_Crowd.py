@@ -11,7 +11,7 @@ load_dotenv()
 # ===============================
 # CONFIG
 # ===============================
-MODEL_PATH = "C:/db/crowd_cnn_model.h5"
+MODEL_PATH = "C:/db/models/crowd_cnn_model.h5"
 
 # ===============================
 # DB CONNECTION
